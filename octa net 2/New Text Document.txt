@@ -1,0 +1,19 @@
+<!Doctype html>
+<html> 
+<meta charset="UTF-8" >
+	<meta http-equiv="x-UA-Compatible" content=" IE-edge">
+	<meta name ="v</main>
+<siewport" content="widh-device-width,inital-scale=1.0">
+<title> Document</title>
+	<link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+<main> 
+	<div class="box">
+		<input type="text" id="item">
+</div>
+</main>
+<script src="main.js"></script>
+</body>
+</html>
